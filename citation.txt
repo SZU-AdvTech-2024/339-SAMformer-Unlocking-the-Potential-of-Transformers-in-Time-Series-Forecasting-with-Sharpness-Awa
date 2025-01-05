@@ -1,0 +1,7 @@
+@inproceedings{REPO339,
+    author = "Ilbert, Romain and Odonnat, Ambroise and Feofanov, Vasilii and Virmaux, Aladin and Paolo, Giuseppe and Palpanas, Themis and Redko, Ievgen",
+    booktitle = "Forty-first International Conference on Machine Learning",
+    title = "{{SAM}former: Unlocking the Potential of Transformers in Time Series Forecasting with Sharpness-Aware Minimization and Channel-Wise Attention}",
+    url = "https://openreview.net/forum?id=8kLzL5QBh2",
+    year = "2024"
+}
